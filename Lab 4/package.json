@@ -1,0 +1,14 @@
+{
+  "name": "cs-546-lab-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Erik Anhorn 10447539",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}

@@ -1,0 +1,60 @@
+/*This file should have CSS rulesets */
+*{
+    box-sizing: border-box;
+}
+
+html,body{
+    font-size: 12pt;
+}
+
+body{
+    background: #dedede;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main{
+    max-width: 95%;
+}
+
+label{
+    font-weight: bold;
+}
+
+h1{
+    margin-bottom: 5px;
+    border-bottom: 1px dashed #333;
+    font-size: 2rem;
+}
+
+h2{
+    font-size: 1.5rem;
+}
+
+p{
+    font-size: 1rem;
+    line-height: 2;
+}
+
+p,form{
+    text-align: center;
+}
+
+.submit{
+    background: #999;
+}
+
+a{
+    text-align: center;
+    color: #558abb;
+}
+
+.error{
+    text-align: left;
+    color: #ff0000;
+}
+
+.not-found{
+    text-align: left;
+    color: #ff0000;
+    font-style: italic;
+}
